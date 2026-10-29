@@ -1,0 +1,17 @@
+@"
+*.aux
+*.bbl
+*.bbl-SAVE-ERROR
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.idx
+*.ilg
+*.ind
+*.log
+*.out
+*.toc
+*.run.xml
+*.synctex.gz
+"@ | Out-File -Encoding ascii .gitignore
